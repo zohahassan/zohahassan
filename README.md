@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Zoha Hassan! I'm a Masters in Computer Science, hoping to make more space for women in tech just like me. Reach out if you find anything I'm working on interesting to you!
 
-Find [my resume](Zoha_Hassan_Resume.pdf) here
+📫 Find [my resume](Zoha_Hassan_Resume.pdf) here
 
-Find [my personal portfolio](Zoha-Hassan-Professional-Portfolio.pdf) here
+🌱 Find [my personal portfolio](Zoha-Hassan-Professional-Portfolio.pdf) here
 
 
 <!--
