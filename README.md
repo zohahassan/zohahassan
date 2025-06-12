@@ -1,7 +1,9 @@
 ## Hi there 👋
 My name is Zoha Hassan! I'm a Masters in Computer Science, hoping to make more space for women in tech just like me. Reach out if you find anything I'm working on interesting to you!
 
-Find [My Resume](Zoha-Hassan-Professional-Portfolio.pdf) here
+Find [My Resume](Zoha_Hassan_Resume.pdf) here
+Find [My Personal Portfolio](Zoha-Hassan-Professional-Portfolio.pdf) here
+
 
 <!--
 **zohahassan/zohahassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
